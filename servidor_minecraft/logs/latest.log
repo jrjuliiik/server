@@ -1,0 +1,42 @@
+[16:39:10] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:39:11] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[16:39:12] [ServerMain/INFO]: No existing world data, creating new world
+[16:39:13] [ServerMain/INFO]: Loaded 1174 recipes
+[16:39:13] [ServerMain/INFO]: Loaded 1271 advancements
+[16:39:13] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[16:39:13] [Server thread/INFO]: Loading properties
+[16:39:13] [Server thread/INFO]: This server is running Paper version git-Paper-497 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: d8d54d9 on ver/1.20.4)
+[16:39:14] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:39:14] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:39:14] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[16:39:14] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[16:39:14] [Server thread/INFO]: Default game type: SURVIVAL
+[16:39:14] [Server thread/INFO]: Generating keypair
+[16:39:14] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:39:14] [Server thread/INFO]: Using epoll channel type
+[16:39:15] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[16:39:15] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[16:39:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:39:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:39:15] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:39:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:39:15] [Server thread/INFO]: Preparing level "world"
+[16:39:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:39:25] [Server thread/INFO]: Time elapsed: 152 ms
+[16:39:25] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[16:39:25] [Server thread/INFO]: Time elapsed: 66 ms
+[16:39:25] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[16:39:25] [Server thread/INFO]: Time elapsed: 60 ms
+[16:39:26] [Server thread/INFO]: Running delayed init tasks
+[16:39:26] [Server thread/INFO]: Done (12.653s)! For help, type "help"
+[16:39:26] [Server thread/INFO]: *************************************************************************************
+[16:39:26] [Server thread/INFO]: This is the first time you're starting this server.
+[16:39:26] [Server thread/INFO]: It's recommended you read our 'Getting Started' documentation for guidance.
+[16:39:26] [Server thread/INFO]: View this and more helpful information here: https://docs.papermc.io/paper/next-steps
+[16:39:26] [Server thread/INFO]: *************************************************************************************
+[16:39:26] [Server thread/INFO]: Timings Reset
+[16:39:33] [User Authenticator #0/INFO]: UUID of player julirexs is 4bf2a163-2c65-3f8d-a2af-dae1d0d27611
+[16:39:46] [Server thread/INFO]: julirexs joined the game
+[16:39:46] [Server thread/INFO]: julirexs[/127.196.205.253:57595] logged in with entity id 23 at ([world]-24.5, 68.0, -81.5)
